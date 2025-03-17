@@ -3,18 +3,31 @@ export default [
         id  : 1,
         name : "Vedic Rani Sharma",
         skills : "Vedic, Palmisrty, Psychic",
+        language: "English, Hindi", 
         experience : 15,
         rate : 22,
-        image : "",
+        image : "astroImg",
         status : "free"
     },
     {
-        id  : 1,
+        id  : 2,
         name : "Vedic Rani Sharma",
         skills : "Vedic, Palmisrty, Psychic",
+        language: "English, Hindi", 
         experience : 15,
         rate : 22,
-        image : "",
-        status : " busy"
+        image : "astroImg",
+        status : "free"
+
+    },
+    {
+        id  : 3,
+        name : "Vedic Rani Sharma",
+        skills : "Vedic, Palmisrty, Psychic",
+        language: "English, Hindi",             
+        experience : 15,
+        rate : 22,
+        image : "astroImg",
+        status : "busy"
     }
 ]
